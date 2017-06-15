@@ -178,5 +178,5 @@ free (Theta);
 free(R);
                                        
 return 0;
-
+printf("\nJob Done \n");
 }
